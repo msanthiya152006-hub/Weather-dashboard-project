@@ -1,0 +1,7 @@
+searchBtn.addEventListener("click", () => {
+    const city = cityInput.value.trim();
+
+    if (city !== "") {
+        getWeather(city);
+    }
+});
