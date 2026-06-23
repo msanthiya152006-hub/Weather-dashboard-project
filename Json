@@ -1,0 +1,18 @@
+{
+  "name": "London",
+  "main": {
+    "temp": 18.5,
+    "humidity": 72
+  },
+  "wind": {
+    "speed": 4.1
+  },
+  "weather": [
+    {
+      "description": "broken clouds"
+    }
+  ],
+  "sys": {
+    "country": "GB"
+  }
+}
